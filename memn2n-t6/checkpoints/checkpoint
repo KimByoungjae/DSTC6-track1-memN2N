@@ -1,0 +1,6 @@
+model_checkpoint_path: "MemN2N.model-28483"
+all_model_checkpoint_paths: "MemN2N.model-15963"
+all_model_checkpoint_paths: "MemN2N.model-19093"
+all_model_checkpoint_paths: "MemN2N.model-22223"
+all_model_checkpoint_paths: "MemN2N.model-25353"
+all_model_checkpoint_paths: "MemN2N.model-28483"
